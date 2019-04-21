@@ -2,3 +2,10 @@ demo1
 https://github.com/princewen/tensorflow_practice/blob/master/recommendation/GBDT%2BLR-Demo/GBDT_LR.py
 demo2
 https://github.com/neal668/LightGBM-GBDT-LR/blob/master/GBFT%2BLR_simple.py
+别人分享的一个关于kaggle的点击率预测比赛
+  完整代码的git地址
+  https://github.com/PnYuan/Practice-of-Machine-Learning/tree/master/code/Kaggle_CTR
+  与该代码相关的任务讲解
+  https://blog.csdn.net/kingzone_2008/article/details/80973594
+  该kaggle点击率预测项目的一个文件
+  http://techblog.youdao.com/wp-content/uploads/2015/03/Avazu-CTR-Prediction.pdf
