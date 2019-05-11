@@ -6,3 +6,6 @@ https://github.com/ycjuan/kaggle-2014-criteo
 
 别人给的一个资料，好像和第一条是一个资料，这个资料有数据，非常完整，需要系统的学习
 https://github.com/princewen/tensorflow_practice
+
+kaggle avazu ctr实验，完整的从lr,lr+gbdt,fm的一个过程
+https://github.com/PnYuan/Practice-of-Machine-Learning/tree/master/code/Kaggle_CTR
